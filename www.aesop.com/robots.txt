@@ -1,0 +1,97 @@
+#Akamai
+
+User-agent: *
+Disallow: /storeswitcher
+Disallow: /*/storeswitcher
+Disallow: /index.php
+Disallow: /*/index.php
+Disallow: /*/wishlist
+Disallow: /catalog/product_compare
+Disallow: /*/catalog/product_compare
+Disallow: /my-account
+Disallow: /my-account/**
+Disallow: /checkout
+Disallow: /checkout/**
+Disallow: /cart
+Disallow: /login/checkout
+Disallow: /reset-password
+Disallow: /unsubscribe
+Disallow: /newsletter-subscription
+Disallow: /register/checkout
+Disallow: /login
+Disallow: /login/**
+Disallow: /register
+Disallow: /payment-details
+Disallow: /set-default-payment-details
+Disallow: /remove-payment-method
+Disallow: /remove-address/
+Disallow: /set-default-address/
+Disallow: /select-suggested-address
+Disallow: /edit-address/**
+Disallow: /store-finder
+Disallow: /api/*
+Disallow: /api/v1/**
+Disallow: /*/my-account
+Disallow: /*/my-account/**
+Disallow: /*/checkout
+Disallow: /*/checkout/**
+Disallow: /*/cart
+Disallow: /*/login/checkout
+Disallow: /*/reset-password
+Disallow: /*/unsubscribe
+Disallow: /*/newsletter-subscription
+Disallow: /*/register/checkout
+Disallow: /*/login
+Disallow: /*/login/**
+Disallow: /*/register
+Disallow: /*/payment-details
+Disallow: /*/set-default-payment-details
+Disallow: /*/remove-payment-method
+Disallow: /*/remove-address/
+Disallow: /*/set-default-address/
+Disallow: /*/select-suggested-address
+Disallow: /*/edit-address/**
+Disallow: /*/store-finder
+Disallow: /*/api/*
+Disallow: /*/cabinet
+Disallow: /p/**/?variant=*
+Disallow: *?SID=U
+Disallow: *?byrange
+Disallow: *?byconcern
+Disallow: *?shopMenu=open
+Disallow: *?readMenu=open
+Disallow: *?searchMenu=open
+Disallow: *?visitMenu=open
+Disallow: *?siteName
+Disallow: *?triggerChat=true
+Disallow: *?contentful=true
+
+Sitemap: https://www.aesop.com/us/sitemap.xml
+Sitemap: https://www.aesop.com/au/sitemap.xml
+Sitemap: https://www.aesop.com/nz/sitemap.xml
+Sitemap: https://www.aesop.com/sg/sitemap.xml
+Sitemap: https://www.aesop.com/uk/sitemap.xml
+Sitemap: https://www.aesop.com/jp/sitemap.xml
+Sitemap: https://www.aesop.com/kr/sitemap.xml
+Sitemap: https://www.aesop.com/it/sitemap.xml
+Sitemap: https://www.aesop.com/dk/sitemap.xml
+Sitemap: https://www.aesop.com/se/sitemap.xml
+Sitemap: https://www.aesop.com/no/sitemap.xml
+
+Sitemap: https://www.aesop.com/fr/fr/sitemap.xml
+Sitemap: https://www.aesop.com/fr/en/sitemap.xml
+Sitemap: https://www.aesop.com/fr/es/sitemap.xml
+
+Sitemap: https://www.aesop.com/ca/en/sitemap.xml
+Sitemap: https://www.aesop.com/ca/fr/sitemap.xml
+
+Sitemap: https://www.aesop.com/hk/en/sitemap.xml
+Sitemap: https://www.aesop.com/hk/zh_hant/sitemap.xml
+Sitemap: https://www.aesop.com/tw/sitemap.xml
+
+Sitemap: https://www.aesop.com/de/de/sitemap.xml
+Sitemap: https://www.aesop.com/de/en/sitemap.xml
+
+Sitemap: https://www.aesop.com/ch/de/sitemap.xml
+Sitemap: https://www.aesop.com/ch/fr/sitemap.xml
+Sitemap: https://www.aesop.com/ch/en/sitemap.xml
